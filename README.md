@@ -9,6 +9,6 @@ Hi there!👋 My name is Soham Sahasrabuddhe, and I am a Full Stack developer li
 - 👯 I’m looking to collaborate on any project involving AI, or App/WebApp Development.
 - 💬 Ask me any questions you may have about programming or collaborating together on a project. 
 - 😄 Pronouns: he/him
-- ⚡ Visit My Website! [matrix5674.github.io/My-Portfolio-Main/](url)
+- ⚡ [Visit My Website!](matrix5674.github.io/My-Portfolio-Main/)
 - 📫 How to reach me: Email: sohamsah28@gmail.com || Instagram: [sohams_28]([url](https://www.instagram.com/sohams_28/)) || Discord: osham
 
