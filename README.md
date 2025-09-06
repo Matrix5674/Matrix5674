@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Hi there!👋 My name is Soham Sahasrabuddhe, and I am a Full Stack developer living in Sunnyvale, CA. I'm a freshman at Fremont High, and have a passion for soccer, ~~sleeping,~~ and programming. Welcome to my GitHub profile! This profile will showcase my achievements, projects, and advances working towards a career in Software Development. Here, you can find a wide variety of projects and interests I have taken up in my journey. I'm always pushing to learn more and help innovate solutions to modern day problems.
+Hi there!👋 My name is Soham Sahasrabuddhe, and I am a Full Stack developer living in Sunnyvale, CA. I'm a student at Fremont High, and have a passion for soccer, ~~sleeping,~~ and programming. Welcome to my GitHub profile! This profile will showcase my achievements, projects, and advances working towards a career in Software Development. Here, you can find a wide variety of projects and interests I have taken up in my journey. I'm always pushing to learn more and help innovate solutions to modern day problems.
 
 # More about me!
 
